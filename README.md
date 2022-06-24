@@ -1,4 +1,4 @@
-# technical test for a job
+# technical test Vue.JS
 
 > first approach of Vue.JS
 

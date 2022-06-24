@@ -1,6 +1,6 @@
-# kaliop
+# technical test for a job
 
-> technical test
+> first approach of Vue.JS
 
 ## Build Setup
 
